@@ -5,13 +5,19 @@ body {
 h1 {
 	color: blue;
 	text-align:center;
-	font-family:Arial;
-	font-size:20px;
+	font-family:helvetica;
+	font-size:100px;
 }
 
 h2 {
 	color: blue;
 	text-align:center;
-	font-family:Arial;
-	font-size:10px;
+	font-family:helvetica;
+	font-size:15px;
+}
+
+h3 {
+	color: brown;
+	font-family:helvetica;
+	font-size:15px;
 }
